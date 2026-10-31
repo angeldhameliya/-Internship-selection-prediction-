@@ -12,3 +12,8 @@ this project uses python and machine learning to predict Internship selection pr
 -Sneha Andakat - Roll No. 570
 
 
+## features
+-data preprocessing
+-machine-learning prediction
+-charts and repots
+-model evaluation
